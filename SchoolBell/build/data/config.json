@@ -1,0 +1,85 @@
+{
+  "activeProfile": "Regular Day",
+  "durationSec": 15,
+  "fadeSec": 3,
+  "musicFolder": "music",
+  "nextTrackIndex": 5,
+  "overrideDate": "",
+  "playMode": "sequential",
+  "profiles": [
+    {
+      "bells": [
+        {
+          "enabled": true,
+          "time": "08:30"
+        },
+        {
+          "enabled": true,
+          "time": "09:20"
+        },
+        {
+          "enabled": true,
+          "time": "10:20"
+        },
+        {
+          "enabled": true,
+          "time": "11:20"
+        },
+        {
+          "enabled": true,
+          "time": "12:20"
+        },
+        {
+          "enabled": true,
+          "time": "13:20"
+        },
+        {
+          "enabled": true,
+          "time": "14:20"
+        },
+        {
+          "enabled": true,
+          "time": "20:03"
+        }
+      ],
+      "name": "Regular Day"
+    },
+    {
+      "bells": [
+        {
+          "enabled": true,
+          "time": "08:30"
+        },
+        {
+          "enabled": true,
+          "time": "09:10"
+        },
+        {
+          "enabled": true,
+          "time": "09:50"
+        },
+        {
+          "enabled": true,
+          "time": "10:30"
+        }
+      ],
+      "name": "Shortened Day"
+    },
+    {
+      "bells": [],
+      "name": "Silence"
+    }
+  ],
+  "volume": 0.8,
+  "weekPlan": {
+    "days": [
+      "Regular Day",
+      "Regular Day",
+      "Regular Day",
+      "Shortened Day",
+      "Regular Day",
+      "Silence",
+      "Silence"
+    ]
+  }
+}
